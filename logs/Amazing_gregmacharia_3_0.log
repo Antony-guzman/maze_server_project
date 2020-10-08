@@ -1,0 +1,162 @@
+gregmacharia, 46721, Mon 09 2020, 21:49
+Difficulty: 0
+Number of Avatars: 3
+Mazeport: 46721
+MazeWidth 5
+MazeHeight 5
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,0)
+Avatar 2 is at (0,2)
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (0,2)
+Avatar 2 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (1,2)
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,0)
+Avatar 2 is at (1,2)
+Avatar 2 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,0)
+Avatar 2 is at (2,2)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,2)
+Avatar 2 tries to move north
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,1)
+Avatar 2 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,1)
+Avatar 1 found a wall
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,1)
+Avatar 2 found a wall
+Avatar 2 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,1)
+Avatar 2 is at (2,2)
+Avatar 1 found a wall
+Avatar 1 tries to move north
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,0)
+Avatar 2 is at (2,2)
+Avatar 2 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (4,0)
+Avatar 2 is at (2,2)
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (2,2)
+Avatar 2 found a wall
+Avatar 2 tries to move north
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (2,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (2,1)
+Avatar 2 tries to move north
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (3,0)
+Avatar 2 is at (2,0)
+Avatar 1 found a wall
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,0)
+Avatar 2 is at (2,0)
+Avatar 2 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,0)
+Avatar 2 is at (1,0)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,1)
+Avatar 2 is at (1,0)
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,1)
+Avatar 2 is at (1,0)
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,1)
+Avatar 2 is at (1,0)
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,1)
+Avatar 2 is at (1,0)
+Avatar 1 found a wall
+Avatar 1 tries to move north
+
+It's Avatar 2 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,0)
+Avatar 2 is at (1,0)
+
+It's Avatar 1 turn
+Avatar 0 is at (1,0)
+Avatar 1 is at (2,0)
+Avatar 2 is at (1,0)
+Avatar 1 tries to move west
+
+you solved the maze!
+Difficult 0  nAvatars 3 nMoves 37 Hash 471630901 

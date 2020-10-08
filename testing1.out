@@ -1,0 +1,24 @@
+./testing1.sh: line 1: !/bin/sh: No such file or directory
+<<<<<<< HEAD
+./testing1.sh: line 14: ./AMStartup: No such file or directory
+./testing1.sh: line 17: ./AMStartup: No such file or directory
+./testing1.sh: line 20: ./AMStartup: No such file or directory
+./testing1.sh: line 24: ./AMStartup: No such file or directory
+./testing1.sh: line 28: ./AMStartup: No such file or directory
+./testing1.sh: line 32: ./AMStartup: No such file or directory
+./testing1.sh: line 36: ./AMStartup: No such file or directory
+./testing1.sh: line 43: ./AMStartup: No such file or directory
+./testing1.sh: line 46: ./AMStartup: No such file or directory
+./testing1.sh: line 49: ./AMStartup: No such file or directory
+=======
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Argument for -n is not a valid number!
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+Please input : -n [Number of Avatars(2~10)] -d [Difficulty(0~9)] -h [hostname]. 
+>>>>>>> WiP

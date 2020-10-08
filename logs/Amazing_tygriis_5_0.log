@@ -1,0 +1,753 @@
+tygriis, 41781, Mon 09 2020, 21:49
+Difficulty: 0
+Number of Avatars: 5
+Mazeport: 41781
+MazeWidth 5
+MazeHeight 5
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,1)
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,1)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,1)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (3,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 4 found a wall
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,2)
+Avatar 4 is at (1,1)
+Avatar 3 found a wall
+Avatar 3 tries to move north
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (1,1)
+Avatar 4 found a wall
+Avatar 4 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (0,1)
+Avatar 1 found a wall
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (0,1)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (0,1)
+Avatar 3 tries to move north
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,0)
+Avatar 4 is at (0,1)
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,0)
+Avatar 4 is at (0,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,0)
+Avatar 4 is at (0,1)
+Avatar 2 found a wall
+Avatar 2 tries to move west
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (2,0)
+Avatar 4 is at (0,1)
+Avatar 3 tries to move west
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (0,1)
+Avatar 4 found a wall
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,1)
+Avatar 1 found a wall
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,1)
+Avatar 2 found a wall
+Avatar 2 tries to move north
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,1)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,1)
+Avatar 4 tries to move north
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (4,0)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,0)
+Avatar 1 tries to move north
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (4,0)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,0)
+Avatar 2 tries to move west
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,0)
+Avatar 3 tries to move west
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (1,0)
+Avatar 4 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (1,0)
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (1,0)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (1,0)
+Avatar 3 tries to move north
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,0)
+Avatar 4 is at (1,0)
+Avatar 4 found a wall
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,0)
+Avatar 4 is at (1,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (3,0)
+Avatar 3 is at (0,0)
+Avatar 4 is at (1,1)
+Avatar 2 found a wall
+Avatar 2 tries to move west
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (0,0)
+Avatar 4 is at (1,1)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (1,1)
+Avatar 4 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (0,1)
+Avatar 1 found a wall
+Avatar 1 tries to move east 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (2,0)
+Avatar 3 is at (0,1)
+Avatar 4 is at (0,1)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (2,1)
+Avatar 3 is at (0,1)
+Avatar 4 is at (0,1)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,1)
+Avatar 4 is at (0,1)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,2)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,1)
+Avatar 1 tries to move south 
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,1)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,1)
+Avatar 4 is at (1,1)
+Avatar 3 tries to move north
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,1)
+Avatar 4 tries to move north
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (4,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,0)
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,0)
+Avatar 2 found a wall
+Avatar 2 tries to move north
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (2,0)
+Avatar 3 is at (1,0)
+Avatar 4 is at (1,0)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (2,0)
+Avatar 3 is at (2,0)
+Avatar 4 is at (1,0)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (3,3)
+Avatar 2 is at (2,0)
+Avatar 3 is at (2,0)
+Avatar 4 is at (2,0)
+Avatar 1 tries to move west
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,0)
+Avatar 3 is at (2,0)
+Avatar 4 is at (2,0)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (2,0)
+Avatar 4 is at (2,0)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (2,0)
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (2,1)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,1)
+Avatar 3 is at (2,1)
+Avatar 4 is at (2,1)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,2)
+Avatar 3 is at (2,1)
+Avatar 4 is at (2,1)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,1)
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+Avatar 2 tries to move west
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (2,2)
+Avatar 4 is at (2,2)
+Avatar 3 found a wall
+Avatar 3 tries to move west
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (1,2)
+Avatar 4 is at (2,2)
+Avatar 4 found a wall
+Avatar 4 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,2)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,2)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,2)
+Avatar 2 found a wall
+Avatar 2 tries to move west
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,2)
+Avatar 3 is at (1,2)
+Avatar 4 is at (1,2)
+Avatar 3 tries to move west
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,2)
+Avatar 3 is at (0,2)
+Avatar 4 is at (1,2)
+Avatar 4 tries to move west
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,2)
+Avatar 3 is at (0,2)
+Avatar 4 is at (0,2)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,2)
+Avatar 3 is at (0,2)
+Avatar 4 is at (0,2)
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,3)
+Avatar 3 is at (0,2)
+Avatar 4 is at (0,2)
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,3)
+Avatar 3 is at (0,3)
+Avatar 4 is at (0,2)
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,3)
+Avatar 3 is at (0,3)
+Avatar 4 is at (0,3)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (0,3)
+Avatar 3 is at (0,3)
+Avatar 4 is at (0,3)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (0,3)
+Avatar 4 is at (0,3)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (0,3)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,3)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+Avatar 2 found a wall
+Avatar 2 tries to move south 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,4)
+Avatar 3 is at (1,3)
+Avatar 4 is at (1,3)
+Avatar 3 found a wall
+Avatar 3 tries to move south 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,4)
+Avatar 3 is at (1,4)
+Avatar 4 is at (1,3)
+Avatar 4 found a wall
+Avatar 4 tries to move south 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,4)
+Avatar 3 is at (1,4)
+Avatar 4 is at (1,4)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (1,4)
+Avatar 3 is at (1,4)
+Avatar 4 is at (1,4)
+Avatar 2 tries to move east 
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,4)
+Avatar 3 is at (1,4)
+Avatar 4 is at (1,4)
+Avatar 3 tries to move east 
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,4)
+Avatar 3 is at (2,4)
+Avatar 4 is at (1,4)
+Avatar 4 tries to move east 
+
+It's Avatar 1 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,4)
+Avatar 3 is at (2,4)
+Avatar 4 is at (2,4)
+
+It's Avatar 2 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,4)
+Avatar 3 is at (2,4)
+Avatar 4 is at (2,4)
+Avatar 2 tries to move north
+
+It's Avatar 3 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,3)
+Avatar 3 is at (2,4)
+Avatar 4 is at (2,4)
+Avatar 3 tries to move north
+
+It's Avatar 4 turn
+Avatar 0 is at (2,3)
+Avatar 1 is at (2,3)
+Avatar 2 is at (2,3)
+Avatar 3 is at (2,3)
+Avatar 4 is at (2,4)
+Avatar 4 tries to move north
+
+you solved the maze!
+Difficult 0  nAvatars 5 nMoves 114 Hash 252806775 
