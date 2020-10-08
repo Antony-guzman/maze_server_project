@@ -9,6 +9,8 @@ GitHub usernames: SKeough117 ggichukim tygriis Antonyg99
 To build, run `make`.
 To clean up, run `make clean`.
 
+*Note: I moved this from my school github so it won't contain the history of the project
+
 ### Project  overview-
 
 This is the implementation of an application to simulate avatars locating each other in a maze that is
